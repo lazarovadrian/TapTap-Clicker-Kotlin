@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapTap Clicker</string>
+    <string name="score_view">score: %1$d</string>
+    <string name="time_view">Time: %1$d</string>
+    <string name="game_over_message">Your score: %1$d</string>
+    <string name="about_title">TapTap App: %1$s</string>
+    <string name="about_message">My first app on kotlin!</string>
+</resources>
